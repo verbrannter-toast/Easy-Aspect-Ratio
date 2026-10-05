@@ -1,6 +1,6 @@
 # Easy-Aspect-Ratio
 
-![Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRza2xjbzIzMHI4dmtvODNzMjd5dXk5Z2dkZnF0enF6MHFjamNpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zAdi6XbRIo6yegfAEb/giphy.gif)
+<img width="1280" height="705" alt="Script-Demo" src="https://github.com/user-attachments/assets/ea9fefc1-8a7b-4be8-9b7c-127c6dfc74c9" />
 
 This is a tool to easily resize your canvas to many different aspect ratios without having to do the calculations yourself. You just put in your wanted aspect ratio, choose which side's dimension you want to base your calculation on, and hit "Resize". It's as easy as that!
 
